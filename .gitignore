@@ -14,3 +14,7 @@ frontend/.env
 
 # video 
 video
+
+# others
+.DS_Stode
+frontend/.DS_Stode
