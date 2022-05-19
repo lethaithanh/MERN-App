@@ -1,3 +1,16 @@
-node_modules
-.env
+# dependencies
+frontend/node_modules
+frontend/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+frontend/build
+
+# environment
+frontend/.env
+
+# video 
 video
